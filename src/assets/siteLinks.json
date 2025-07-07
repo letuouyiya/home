@@ -6,7 +6,7 @@
   },
   {
     "icon": "Cloud",
-    "name": "图站",
+    "name": "图集",
     "link": "https://task.letuoa.com/"
   },
   {
@@ -15,23 +15,8 @@
     "link": "https://sy.letuoa.com/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Sissy Roulette",
+    "name": "男娘",
+    "link": "https://letuoa.com/mission.html"
   }
 ]
